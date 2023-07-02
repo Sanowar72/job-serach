@@ -23,7 +23,7 @@ The Job Search Application is a RESTful API that provides endpoints to manage jo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/job-search-application.git
+   git clone https://github.com/your-username/job-search-application.git](https://github.com/Sanowar72/job-serach/tree/main)
 
 
 

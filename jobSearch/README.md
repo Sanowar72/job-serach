@@ -83,3 +83,12 @@ The Job Search Application is a RESTful API that provides endpoints to manage jo
 - Path Parameter:
   - `id` - ID of the job search entry.
 - Response: Success message.
+## Validation
+
+The Job Search Application includes the following validations:
+
+- Email Validation: The `companyEmail` field of a job search entry must be a valid email format.
+
+- Minimum Salary Validation: The `jobSalary` field of a job search entry must be greater than or equal to 20,000.
+
+These validations ensure the data integrity and consistency of the job search entries.

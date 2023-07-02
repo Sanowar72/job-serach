@@ -9,8 +9,8 @@ The Job Search Application is a RESTful API that provides endpoints to manage jo
 - Spring Boot
 - Spring Data JPA
 - Spring Web
-- MySQL (or any other supported database)
-- Maven (or Gradle)
+- MySQL (H2 DATABASE)
+- Maven 
 
 ## Prerequisites
 

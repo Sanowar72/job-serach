@@ -1,3 +1,33 @@
+
+# Job Search Application
+
+The Job Search Application is a RESTful API that provides endpoints to manage job search data. It allows users to retrieve, create, update, and delete job search entries.
+
+## Technologies Used
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- Spring Web
+- MySQL (or any other supported database)
+- Maven (or Gradle)
+
+## Prerequisites
+
+- Java 8 or higher installed
+- Database setup (MySQL or other supported database)
+- IDE (e.g., IntelliJ IDEA, Eclipse)
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/job-search-application.git
+
+
+
+
 ## API Endpoints
 
 ### Get All Jobs
